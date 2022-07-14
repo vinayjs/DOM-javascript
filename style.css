@@ -1,0 +1,19 @@
+
+  *{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aliceblue;
+
+}
+img{
+    background-color:rebeccapurple;
+    border:none;
+    color: white;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 1rem;
+
+}
